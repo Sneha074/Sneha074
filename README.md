@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Sneha Prajapati</h1>
 <h3 align="center">I am a passionate data science enthusiast driven by curiosity, insights, and the power to solve real-world problems through data.</h3>
